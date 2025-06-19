@@ -13,5 +13,11 @@ sass:
 include:
   - assets/css
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      favicon: "/assets/img/favicon.ico"
+
 
 
