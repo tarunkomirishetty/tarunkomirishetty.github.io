@@ -6,7 +6,7 @@ title: Projects
 <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico">
 
 
-# 🧪 Featured Projects
+# 💼 Featured Projects
 
 Here’s a selection of my recent work — from machine learning pipelines to interactive dashboards:
 

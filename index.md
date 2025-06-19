@@ -16,7 +16,7 @@ title: Tarun Komirishetty
 
 ---
 
-## 🚀 About Me
+## 👤 About Me
 
 I'm a Data Analyst with over 3 years of experience driving data-informed decisions in enterprise and B2B environments. I specialize in automating reporting pipelines, building scalable dashboards, and translating complex data into actionable business insights.
 
@@ -24,7 +24,7 @@ Currently at **CARFAX**, I’ve built KPI dashboards, ML models for vehicle clas
 
 ---
 
-## 🛠️ Skills & Tools
+## 📌 Skills & Tools
 
 - **Languages:** Python, R, SQL, MATLAB  
 - **Data Tools:** Tableau, Power BI, Salesforce  
@@ -33,7 +33,7 @@ Currently at **CARFAX**, I’ve built KPI dashboards, ML models for vehicle clas
 
 ---
 
-## 📚 Education
+## 🎓 Education
 
 **George Mason University**  
 *MS in Analytics Engineering (GPA 4.0)*  
@@ -54,7 +54,7 @@ Currently at **CARFAX**, I’ve built KPI dashboards, ML models for vehicle clas
 
 ---
 
-## 🧪 Featured Projects
+## 💡 Featured Projects
 
 - 🔍 **[Vehicle Trim Detection](#)** – ML model for internal data accuracy  
 - 🧠 **[NER Pipeline](#)** – Custom Named Entity Recognition with GRU/LSTM  
@@ -62,11 +62,11 @@ Currently at **CARFAX**, I’ve built KPI dashboards, ML models for vehicle clas
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Connect With Me
 
 - 📧 [Email Me](mailto:tkomiris@gmail.com?subject=Let's%20Connect&body=Hi%20Tarun%2C%0AI%20came%20across%20your%20portfolio%20and%20wanted%20to%20reach%20out...)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/tarun-komirishetty-b8b722218)
-- 📁 [View Projects](projects)
+- 👉 [View Projects](projects)
 
 
 
