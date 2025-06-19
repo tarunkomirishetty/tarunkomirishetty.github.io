@@ -86,3 +86,30 @@ body {
   }
 }
 
+.intro-section {
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.intro-section h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.intro-row {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem 2rem;
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.intro-row div {
+  white-space: nowrap;
+}
+
+.contact-row {
+  font-size: 0.95rem;
+  color: #444;
+}

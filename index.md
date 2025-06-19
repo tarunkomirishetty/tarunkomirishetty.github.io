@@ -8,11 +8,19 @@ title: Tarun Komirishetty
 
 <img src="assets/img/banner.png" alt="Tarun Komirishetty Banner" style="width: 100%; border-radius: 12px; margin-bottom: 1.5rem;" />
 
+<div class="intro-section">
+  <h1>👋 Hi, I'm Tarun Komirishetty</h1>
+  <div class="intro-row">
+    <div>🎯 <strong>Data Analyst</strong></div>
+    <div><strong>Analytics Engineer</strong></div>
+    <div><strong>Machine Learning Enthusiast</strong></div>
+  </div>
+  <div class="intro-row contact-row">
+    <div>📍 Chantilly, VA</div>
+    <div>✉️ tkomiris@gmail.com</div>
+  </div>
+</div>
 
-# 👋 Hi, I'm Tarun Komirishetty
-
-🎯 **Data Analyst | Analytics Engineer | Machine Learning Enthusiast**  
-📍 Based in Chantilly, VA | 📧 tkomiris@gmail.com
 
 ---
 
