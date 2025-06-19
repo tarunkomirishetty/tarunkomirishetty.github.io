@@ -26,7 +26,7 @@ Currently at **CARFAX**, I’ve built KPI dashboards, ML models for vehicle clas
 
 ## 🛠️ Skills & Tools
 
-<div style="display: flex; flex-wrap: wrap; gap: 2rem;">
+<div class="skills-list">
   <ul>
     <li><strong>Languages:</strong> Python, R, SQL, MATLAB</li>
     <li><strong>Data Tools:</strong> Tableau, Power BI, Salesforce</li>
@@ -73,15 +73,15 @@ Currently at **CARFAX**, I’ve built KPI dashboards, ML models for vehicle clas
 
 <p class="connect-buttons">
   <a href="mailto:tkomiris@gmail.com?subject=Let's%20Connect&body=Hi%20Tarun%2C%0AI%20came%20across%20your%20portfolio%20and%20wanted%20to%20reach%20out..."
-     style="display:inline-block; background:#007acc; color:white; padding:8px 14px; border-radius:5px; text-decoration:none; font-weight:500;">
+     class="btn">
      📧 Email Me
   </a>
   <a href="https://www.linkedin.com/in/tarun-komirishetty-b8b722218"
-     style="display:inline-block; background:#006699; color:white; padding:8px 14px; border-radius:5px; text-decoration:none; font-weight:500; margin-right: 10px;">
+     class="btn">
      🔗 LinkedIn
   </a>
   <a href="projects"
-     style="display:inline-block; background:#444; color:white; padding:8px 14px; border-radius:5px; text-decoration:none; font-weight:500;">
+     class="btn">
      📁 View Projects
   </a>
 </p>

@@ -3,7 +3,7 @@ body {
     font-family: 'Segoe UI', sans-serif;
     color: #2d2d2d;
     line-height: 1.6;
-    max-width: 850px;
+    max-width: 90vw;
     margin: auto;
     padding: 2rem;
   }
@@ -85,3 +85,40 @@ body {
     width: fit-content;
   }
 }
+
+.skills-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+}
+
+@media (max-width: 768px) {
+  .skills-list {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+.connect-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+.connect-buttons .btn {
+  background: #007acc;
+  color: white;
+  padding: 10px 16px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: background 0.2s ease;
+}
+
+.connect-buttons .btn:hover {
+  background: #005fa3;
+}
+
