@@ -1,0 +1,17 @@
+title: Tarun Komirishetty
+theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-feed
+
+exclude:
+  - README.md
+
+sass:
+  style: compressed
+
+include:
+  - assets/css
+
+
+

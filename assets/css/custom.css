@@ -1,0 +1,87 @@
+/* Style body and text */
+body {
+    font-family: 'Segoe UI', sans-serif;
+    color: #2d2d2d;
+    line-height: 1.6;
+    max-width: 850px;
+    margin: auto;
+    padding: 2rem;
+  }
+  
+  /* Style headings */
+  h1, h2, h3 {
+    color: #1a1a1a;
+    margin-top: 2rem;
+  }
+  
+  /* Style links */
+  a {
+    color: #0066cc;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Style project blocks */
+  h3 {
+    background: #f6f8fa;
+    padding: 0.5rem 1rem;
+    border-left: 4px solid #007acc;
+    border-radius: 6px;
+    margin-bottom: 0.5rem;
+  }
+  
+  /* Center profile image */
+  img[alt="Tarun Komirishetty"] {
+    margin: 1rem auto !important;
+    display: block !important;
+    border-radius: 50%;
+    border: 2px solid #ddd;
+  }  
+
+  .project-card {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 1rem;
+    margin-bottom: 1.5rem;
+    background: #fafafa;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.04);
+    transition: box-shadow 0.2s ease;
+  }
+  .project-card:hover {
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  }
+  
+  /* Responsive styles */
+@media only screen and (max-width: 600px) {
+  body {
+    padding: 1rem;
+    font-size: 15px;
+  }
+
+  h1, h2, h3 {
+    font-size: 1.3rem;
+  }
+
+  img[alt="Banner"] {
+    border-radius: 8px;
+  }
+
+  a {
+    display: inline-block;
+    margin: 0.25rem 0;
+  }
+
+  .project-card {
+    padding: 1rem;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .connect-buttons a {
+    display: block;
+    margin-bottom: 10px;
+    width: fit-content;
+  }
+}
